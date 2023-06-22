@@ -1,7 +1,5 @@
 # news-app
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qb5p4ycqfxm7m4doq2io.jpg)
-
 Today we are going to develop a simple News app with the help of NodeJS , Express , EJS and bootstrap.
 
 There are going to be 2 main features in this website search and display news articles And we are going to use Newapi for getting news articles. 
